@@ -393,7 +393,7 @@ figure figcaption {
     }
 }
 
-#dev-hero .flexslider .slider-text > .slider-text-inner h1, #dev-hero .flexslider .slider-text > .slider-text-inner h2 {
+#dev-hero .flexslider .slider-text > .slider-text-inner h1, #dev-hero .flexslider .slider-text > .slider-text-inner h2, #dev-hero .flexslider .slider-text > .slider-text-inner h3 {
     margin: 0;
     padding: 0;
     color: white;
