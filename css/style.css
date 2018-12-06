@@ -1125,6 +1125,10 @@ body.offcanvas #dev-main, body.offcanvas .dev-nav-toggle {
     position: relative;
 }
 
+.dev-feature .dev-feature--empty {
+    min-height: 400px;
+}
+
 .dev-feature .dev-icon {
     position: absolute;
     top: 0;
