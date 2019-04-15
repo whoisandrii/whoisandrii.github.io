@@ -570,6 +570,12 @@ body.offcanvas #dev-main, body.offcanvas .dev-nav-toggle {
     }
 }
 
+.dev-skills .devicons {
+    font-size: 3.3em;
+    margin: 5px auto;
+}
+
+
 .heading-meta {
     margin-bottom: 15px;
     display: block;
